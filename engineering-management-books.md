@@ -1,5 +1,5 @@
 layout: page
 title: "Engineering Management Books"
-permalink: /books
+permalink: /books/
 
 Books content
